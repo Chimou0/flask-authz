@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.8.0](https://github.com/officialpycasbin/flask-authz/compare/v2.7.0...v2.8.0) (2025-08-15)
+
+
+### Features
+
+* switch from casbin to pycasbin ([e93f24f](https://github.com/officialpycasbin/flask-authz/commit/e93f24f4d164ea5230964813c0a4779c81b7766c))
+
 # [2.7.0](https://github.com/officialpycasbin/flask-authz/compare/v2.6.0...v2.7.0) (2024-11-12)
 
 
