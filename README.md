@@ -1,11 +1,11 @@
 # flask-authz
 
-[![GitHub Action](https://github.com/officialpycasbin/flask-authz/workflows/build/badge.svg?branch=master)](https://github.com/officialpycasbin/flask-authz/actions)
+[![build](https://github.com/officialpycasbin/flask-authz/actions/workflows/build.yml/badge.svg)](https://github.com/officialpycasbin/flask-authz/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/flask-authz/badge.svg)](https://coveralls.io/github/officialpycasbin/flask-authz)
 [![Version](https://img.shields.io/pypi/v/flask-authz.svg)](https://pypi.org/project/flask-authz/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/flask-authz.svg)](https://pypi.org/project/flask-authz/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/flask-authz.svg)](https://pypi.org/project/flask-authz/)
-[![Download](https://img.shields.io/pypi/dm/flask-authz.svg)](https://pypi.org/project/flask-authz/)
+[![Download](https://static.pepy.tech/badge/flask-authz)](https://pypi.org/project/flask-authz/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 flask-authz is an authorization middleware for [Flask](http://flask.pocoo.org/), it's based on [PyCasbin](https://github.com/casbin/pycasbin).
